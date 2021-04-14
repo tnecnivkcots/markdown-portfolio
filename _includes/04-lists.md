@@ -1,0 +1,5 @@
+- solving complex problems
+- sleeping
+- python
+- eating
+- hiking
